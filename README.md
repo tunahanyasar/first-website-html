@@ -10,12 +10,12 @@
 
 1. Projeyi klonlayın
 ```bash
-git clone https://github.com/tunahanyasar/first-website-html
+git clone https://github.com/tunahanyasar/first-website-html.git
 ```
 
 2. Proje klasörüne gidin
 ```bash
-cd Odev-1
+cd first-website-html
 ```
 
 3. `index.html` dosyasını bir web tarayıcısında açın
