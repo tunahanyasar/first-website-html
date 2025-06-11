@@ -2,6 +2,8 @@
 
 [🇹🇷 Click for Turkish version](./README.tr.md)
 
+*Created on: February 4, 2025*
+
 * This project is created for Patika Frontend Bootcamp as **Week-1 / Assignment-2 | HTML and CSS** project.
 * A blog page developed using **HTML** and **CSS**.
 * Basic HTML tags and CSS properties are used.
