@@ -1,6 +1,6 @@
 # 📝 Blog Page
 
-[🇬🇧 İngilizce README.md için tıklayın](./README.md)
+[🇹🇷 Click for Turkish README.md](./README.tr.md)
 
 *Created on: February 4, 2025*
 
